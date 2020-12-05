@@ -3,7 +3,7 @@
   <HelloWorld msg="Hello Vue 3.0 + Vite" />
 
   name: {{$store.state.name}}
-
+  
    <router-view></router-view>
 </template>
 
